@@ -4,21 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd5e5825-7ff6-4418-b74f-8522db2db45d" name="Changes" comment="hw2_hashmap">
+    <list default="true" id="fd5e5825-7ff6-4418-b74f-8522db2db45d" name="Changes" comment="tree_23">
       <change afterPath="$PROJECT_DIR$/cw3/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cw3/src/main/java/task1/BinarySearch.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cw3/src/main/java/task2/CycleShift.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cw4/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cw4/src/main/java/task1/Sort012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree_23/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree_23/src/main/java/ru/itis/aisd403/tree_23/DataGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree_23/src/main/java/ru/itis/aisd403/tree_23/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree_23/src/main/java/ru/itis/aisd403/tree_23/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree_23/src/main/java/ru/itis/aisd403/tree_23/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree_23/src/main/java/ru/itis/aisd403/tree_23/TwoThreeTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,12 +195,21 @@
       <option name="project" value="LOCAL" />
       <updated>1747170002535</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="tree_23">
+      <option name="closed" value="true" />
+      <created>1747674806537</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747674806537</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="a" />
     <MESSAGE value="hw2_hashmap" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw2_hashmap" />
+    <MESSAGE value="tree_23" />
+    <option name="LAST_COMMIT_MESSAGE" value="tree_23" />
   </component>
 </project>
