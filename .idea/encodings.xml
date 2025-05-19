@@ -7,6 +7,10 @@
     <file url="file://$PROJECT_DIR$/cw1/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cw2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cw2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cw3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cw3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cw4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cw4/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hw_hashmap/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hw_hashmap/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hw_recursion/src/main/java" charset="UTF-8" />
@@ -19,5 +23,7 @@
     <file url="file://$PROJECT_DIR$/radix_sort/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tree_23/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tree_23/src/main/resources" charset="UTF-8" />
   </component>
 </project>
