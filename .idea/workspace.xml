@@ -10,6 +10,14 @@
       <change afterPath="$PROJECT_DIR$/cw3/src/main/java/task2/CycleShift.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cw4/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cw4/src/main/java/task1/Sort012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_line/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_line/src/main/java/task1/FindTransitionPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_line/src/main/java/task2/ReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_line/src/main/java/task3/LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_line/src/main/java/task4/MaxNumbersSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +27,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -51,12 +60,15 @@
   "keyToString": {
     "Application.ArrayDublicate.executor": "Run",
     "Application.CommonArray.executor": "Run",
+    "Application.FindTransitionPoint.executor": "Run",
     "Application.GCDCalulator.executor": "Run",
     "Application.HeightSubTree.executor": "Run",
+    "Application.LargestNumber.executor": "Run",
     "Application.Log.executor": "Run",
     "Application.LogFactorial.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.ReverseList.executor": "Run",
+    "Application.ReverseWords.executor": "Run",
     "Application.Subset.executor": "Run",
     "Application.Tree.executor": "Run",
     "Application.TreeSerializer.executor": "Run",
@@ -78,13 +90,13 @@
       <recent name="task1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="CommonArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task3.CommonArray" />
-      <module name="hw_hashmap" />
+  <component name="RunManager" selected="Application.MaxNumbersSum">
+    <configuration name="FindTransitionPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task1.FindTransitionPoint" />
+      <module name="hw_line" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task3.*" />
+          <option name="PATTERN" value="task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeightSubTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task1.HeightSubTree" />
-      <module name="hw_recursion" />
+    <configuration name="LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task3.LargestNumber" />
+      <module name="hw_line" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task1.*" />
+          <option name="PATTERN" value="task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NTreeSerializer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task3.NTreeSerializer" />
-      <module name="hw_recursion" />
+    <configuration name="MaxNumbersSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task4.MaxNumbersSum" />
+      <module name="hw_line" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task3.*" />
+          <option name="PATTERN" value="task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,9 +143,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSerializer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task2.TreeSerializer" />
-      <module name="hw_recursion" />
+    <configuration name="ReverseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task2.ReverseWords" />
+      <module name="hw_line" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="task2.*" />
@@ -146,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxNumbersSum" />
+        <item itemvalue="Application.LargestNumber" />
+        <item itemvalue="Application.ReverseWords" />
+        <item itemvalue="Application.FindTransitionPoint" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.NTreeSerializer" />
-        <item itemvalue="Application.HeightSubTree" />
-        <item itemvalue="Application.TreeSerializer" />
-        <item itemvalue="Application.CommonArray" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +215,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747674806537</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="tree_23">
+      <option name="closed" value="true" />
+      <created>1747674935390</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747674935390</updated>
+    </task>
+    <task id="LOCAL-00007" summary="tree_23">
+      <option name="closed" value="true" />
+      <created>1747674956050</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1747674956050</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
