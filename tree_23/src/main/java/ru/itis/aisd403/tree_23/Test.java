@@ -15,21 +15,18 @@ public class Test {
         for (int[] data : testData) {
             TwoThreeTree tree = new TwoThreeTree();
 
-            // Тестирование вставки
             long insertStart = System.nanoTime();
             for (int key : data) {
                 tree.insert(key);
             }
             long insertTime = System.nanoTime() - insertStart;
 
-            // Тестирование поиска
             long searchStart = System.nanoTime();
             for (int key : data) {
                 tree.contains(key);
             }
             long searchTime = System.nanoTime() - searchStart;
 
-            // Тестирование удаления
             long removeStart = System.nanoTime();
             for (int key : data) {
                 tree.remove(key);

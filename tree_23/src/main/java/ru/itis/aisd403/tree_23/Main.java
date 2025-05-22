@@ -21,20 +21,17 @@ public class Main {
                 datasetCounter++;
                 System.out.println("\n=== Набор #" + datasetCounter + " ===");
 
-                // Парсинг данных
                 String[] parts = line.split(":");
                 int size = Integer.parseInt(parts[0]);
                 int[] data = Arrays.stream(parts[1].split(","))
                         .mapToInt(Integer::parseInt)
                         .toArray();
 
-                // Вывод информации о наборе
                 System.out.println("Количество элементов: " + size);
 
-                // Создание и работа с деревом
                 TwoThreeTree tree = new TwoThreeTree();
 
-                // Добавление элементов
+
                 long insertTime = measureOperation("Добавление", () -> {
                     for (int num : data) {
                         tree.insert(num);
@@ -42,14 +39,12 @@ public class Main {
                 });
                 System.out.printf("Размер после добавления: %d\n", tree.size());
 
-                // Поиск элементов
                 long searchTime = measureOperation("Поиск", () -> {
                     for (int i = 0; i < Math.min(20, data.length); i++) {
                         tree.contains(data[i]);
                     }
                 });
 
-                // Удаление элементов
                 int removeCount = Math.min(10, data.length/2);
                 long removeTime = measureOperation("Удаление", () -> {
                     for (int i = 0; i < removeCount; i++) {

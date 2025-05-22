@@ -4,18 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd5e5825-7ff6-4418-b74f-8522db2db45d" name="Changes" comment="tree_23">
+    <list default="true" id="fd5e5825-7ff6-4418-b74f-8522db2db45d" name="Changes" comment="hw_line">
       <change afterPath="$PROJECT_DIR$/cw3/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cw3/src/main/java/task1/BinarySearch.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cw3/src/main/java/task2/CycleShift.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cw4/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cw4/src/main/java/task1/Sort012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_line/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_line/src/main/java/task1/FindTransitionPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_line/src/main/java/task2/ReverseWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_line/src/main/java/task3/LargestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_line/src/main/java/task4/MaxNumbersSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -67,6 +61,7 @@
     "Application.Log.executor": "Run",
     "Application.LogFactorial.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MaxNumbersSum.executor": "Run",
     "Application.ReverseList.executor": "Run",
     "Application.ReverseWords.executor": "Run",
     "Application.Subset.executor": "Run",
@@ -231,13 +226,22 @@
       <option name="project" value="LOCAL" />
       <updated>1747674956050</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="hw_line">
+      <option name="closed" value="true" />
+      <created>1747753942426</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1747753942426</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="a" />
     <MESSAGE value="hw2_hashmap" />
     <MESSAGE value="tree_23" />
-    <option name="LAST_COMMIT_MESSAGE" value="tree_23" />
+    <MESSAGE value="hw_line" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw_line" />
   </component>
 </project>
