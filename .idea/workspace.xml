@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd5e5825-7ff6-4418-b74f-8522db2db45d" name="Changes" comment="hw_line">
+    <list default="true" id="fd5e5825-7ff6-4418-b74f-8522db2db45d" name="Changes" comment="tree_23">
       <change afterPath="$PROJECT_DIR$/cw3/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cw3/src/main/java/task1/BinarySearch.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cw3/src/main/java/task2/CycleShift.java" afterDir="false" />
@@ -50,42 +50,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayDublicate.executor": "Run",
-    "Application.CommonArray.executor": "Run",
-    "Application.FindTransitionPoint.executor": "Run",
-    "Application.GCDCalulator.executor": "Run",
-    "Application.HeightSubTree.executor": "Run",
-    "Application.LargestNumber.executor": "Run",
-    "Application.Log.executor": "Run",
-    "Application.LogFactorial.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MaxNumbersSum.executor": "Run",
-    "Application.ReverseList.executor": "Run",
-    "Application.ReverseWords.executor": "Run",
-    "Application.Subset.executor": "Run",
-    "Application.Tree.executor": "Run",
-    "Application.TreeSerializer.executor": "Run",
-    "Application.Validbrackets.executor": "Run",
-    "Application.WordCounter.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/safiu/IdeaProjects/aisd403/radix_sort/src/main/java/ru/itis/aisd403/radix_sort/Main.java",
-    "project.structure.last.edited": "Problems",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayDublicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CommonArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindTransitionPoint.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GCDCalulator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HeightSubTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Log.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LogFactorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxNumbersSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Subset.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreeSerializer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Validbrackets.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WordCounter.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/safiu/IdeaProjects/aisd403/radix_sort/src/main/java/ru/itis/aisd403/radix_sort/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="task2" />
       <recent name="task1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxNumbersSum">
+  <component name="RunManager" selected="Application.StudentGradesSystem">
     <configuration name="FindTransitionPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task1.FindTransitionPoint" />
       <module name="hw_line" />
@@ -105,19 +105,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="task3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.itis.aisd403.tree_23.Main" />
-      <module name="tree_23" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.itis.aisd403.tree_23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,13 +138,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentGradesSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.itis.aisd403.tree_23.StudentGradesSystem" />
+      <module name="tree_23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.itis.aisd403.tree_23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentGradesSystem" />
         <item itemvalue="Application.MaxNumbersSum" />
         <item itemvalue="Application.LargestNumber" />
         <item itemvalue="Application.ReverseWords" />
         <item itemvalue="Application.FindTransitionPoint" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -234,14 +234,22 @@
       <option name="project" value="LOCAL" />
       <updated>1747753942426</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="tree_23">
+      <option name="closed" value="true" />
+      <created>1747892087155</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1747892087155</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="a" />
     <MESSAGE value="hw2_hashmap" />
-    <MESSAGE value="tree_23" />
     <MESSAGE value="hw_line" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw_line" />
+    <MESSAGE value="tree_23" />
+    <option name="LAST_COMMIT_MESSAGE" value="tree_23" />
   </component>
 </project>

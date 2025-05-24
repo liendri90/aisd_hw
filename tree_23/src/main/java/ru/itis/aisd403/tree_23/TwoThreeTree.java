@@ -311,4 +311,8 @@ public class TwoThreeTree {
     private TreeNode fixThreeNode(TreeNode node) {
         return node;
     }
+
+    public TreeNode getRoot() {
+        return root;
+    }
 }
