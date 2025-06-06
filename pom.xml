@@ -17,6 +17,11 @@
         <module>cw3</module>
         <module>cw4</module>
         <module>tree_23</module>
+        <module>hw_line</module>
+        <module>cw5</module>
+        <module>hw_divide_conquer</module>
+        <module>cw6</module>
+        <module>hw_dynamic</module>
     </modules>
 
     <properties>
